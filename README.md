@@ -6,3 +6,6 @@ Below is the question:
 ![Question](https://github.com/TheDeadArmy/Circle-Geometry-Example-1/assets/103598716/ed7d3814-1995-46b4-adee-a3e208aff6ac)
 
 Each Intersection point in the programmed example has been mathematically calculated (and is correct) and derived from the original data - which is a single vertex (positioned at the mouse pointer) and a circle (a position and a radius)
+
+Below is an example of the program running:
+![Circle proof model](https://github.com/TheDeadArmy/Circle-Geometry-Example-1/assets/103598716/c179e001-69fd-4872-b47a-27da174cac9a)
